@@ -1,0 +1,26 @@
+html{
+    background: white;
+}
+body{
+    
+    width: 50%;
+    border-left: 30px;
+    border-right: 30px;
+    border-bottom: 30px;
+    border-right-color: aqua;
+    border-left-color:aqua;
+    border-bottom-color: aqua;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    background-color:whitesmoke;
+    
+}
+h1{
+    background: aqua;
+    color:blue;
+    text-align: center;
+}
+.right{
+    text-align:right;
+}
